@@ -12,7 +12,7 @@ First level analysis processes the functional images for each subject.
 
 That will convert the BIDS format timings to FSL format.
 
-1.  Run run_1stLevel_Analysis.sh to run all subjects's first level analysis.
+2.  Run run_1stLevel_Analysis.sh to run all subjects's first level analysis.
 
 The Registation of the high resolution to standard image should look something like this.
 
