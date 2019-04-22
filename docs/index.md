@@ -5,4 +5,4 @@ GitHub.
 
 [Script documentation](https://michigan-nii.github.io/psych808/scripts.html)
 
-[first_level.md]. (https://github.com/97dankos/psych808/blob/master/docs/first_level.md)
+[first_level.md](https://github.com/97dankos/psych808/blob/master/docs/first_level.md)
